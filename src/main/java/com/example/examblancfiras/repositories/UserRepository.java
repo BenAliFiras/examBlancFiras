@@ -7,3 +7,4 @@ public interface UserRepository extends JpaRepository<User, Integer> {
 
     User findByFnameAndLname(String fn, String ln);
 }
+

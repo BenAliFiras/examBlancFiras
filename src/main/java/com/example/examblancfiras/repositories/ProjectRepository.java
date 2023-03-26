@@ -13,3 +13,4 @@ public interface ProjectRepository extends JpaRepository<Project, Integer> {
 
     List<Project> findAllByUserRoleAndUserFnameAndLname(Role role, String fn, String ln);
 }
+

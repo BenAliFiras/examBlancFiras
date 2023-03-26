@@ -25,3 +25,4 @@ public class Project {
     //pas ajouter @jsonIgnor car nous utilisons cascade
     private List<Sprint> sprints;
 }
+

@@ -21,3 +21,4 @@ public class Sprint {
     @ManyToOne
     private Project project;
 }
+

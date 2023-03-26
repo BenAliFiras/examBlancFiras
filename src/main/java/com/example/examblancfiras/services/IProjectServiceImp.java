@@ -70,3 +70,4 @@ public class IProjectServiceImp implements IProjectServices {
         return projectRepository.findAllByUserRoleAndUserFnameAndLname(Role.SCRUM_MASTER,fName,lName);
     }
 }
+

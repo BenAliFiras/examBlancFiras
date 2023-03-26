@@ -7,3 +7,4 @@ import org.springframework.stereotype.Service;
 public interface IUserServices {
     User ajouterUser(User user);
 }
+

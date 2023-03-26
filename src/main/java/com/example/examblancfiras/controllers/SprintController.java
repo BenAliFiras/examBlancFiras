@@ -15,3 +15,4 @@ public class SprintController {
         iSpintServices.addSprintAndAssignToProject(sprint,idProject);
     }
 }
+

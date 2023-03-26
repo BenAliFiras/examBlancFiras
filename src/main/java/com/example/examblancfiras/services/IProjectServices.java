@@ -17,3 +17,4 @@ public interface IProjectServices {
 
     public List<Project> getProjectsByScrumMaster(String fName, String lName);
 }
+
